@@ -3,4 +3,4 @@ published: false
 title: Test post!
 layout: post
 ---
-test
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-GB&cat=0-174-1227-1299&q=deeplearning4j,+theano,+tensorflow,+keras&date=1/2010+73m&cmpt=q&tz=Etc/GMT%2B4&tz=Etc/GMT%2B4&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
